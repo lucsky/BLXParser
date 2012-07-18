@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<root>
+    <node><![CDATA[aggregated]]> content 1</node>
+    <node><![CDATA[aggregated]]> content 2</node>
+    <node><![CDATA[aggregated]]> content 3</node>
+</root>
